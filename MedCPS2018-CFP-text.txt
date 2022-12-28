@@ -1,0 +1,53 @@
+8th International Workshop on Medical Cyber-Physical Systems
+Hosted at Cyber-Physical Systems Week 2018
+https://rtg.cis.upenn.edu/mcps-workshop-2018/ 
+April 10, 2018 - Porto, Portugal
+
+*Call for Papers*
+-----------------
+Medical Cyber-Physical Systems (CPS) encompass a new generation of smart medical systems that integrate human, cyber, and physical elements in closed-loop control. They aim to improve patient care by enabling the delivery of advanced therapies and complex surgeries.  Designing safe and effective Medical CPS involves the work of a multi-disciplinary team of engineers, medical domain experts, and human factors specialists. This work needs to be supported by rigorous development processes and tools, as substantial evidence needs to be documented and integrated to justify design choices and ease the review process mandated by regulation. 
+The objectives of the workshop are to provide opportunities for researchers, industrial practitioners, caregivers, and government agencies to demonstrate innovative development methods and tools, present experience reports, discuss open challenges, and explore ideas for future development of Medical CPS. Contributions are welcome on all aspects of system development, including specification, design, analysis, implementation, documentation, and certification of Medical CPS. Demonstrations of existing tools for design and analysis of Medical CPS are also encouraged. Topics of interest include, but are not limited to, the following:
+- Foundations for Integration of Medical Device Systems/Models: Component-based technologies for accelerated design and verifiable system integration, Systems of systems, Medical devices plug-and-play to support interoperability of heterogeneous systems
+- Enabling Technologies for Future Medical Devices: Implantable regulatory devices, networked biosensors, tele-surgery, robotic surgery, physiologic signal QoS (Quality of Service), Medical CPS in developing countries
+- Distributed Control & Sensing of Networked Medical Device Systems: Robust, verifiable, fault-tolerant control of uncertain, multi-modal systems
+- Medical Device Plug-and-Play Ecosystem: Requirements and emerging standards for supporting interoperability in the clinical environment, including ”black box” data recording, device authorization, and data security
+- Human-Machine Interfaces: Identification of use-related safety requirements, model-based analysis of medical user interface design, user studies involving medical devices, modelling and analysis of use-errors with medical devices
+- Patient Modeling & Simulation: Large scale, high fidelity organ/patient models for design & testing
+- Embedded, Real-Time, Networked System Infrastructures for High Confidence Medical Devices: Architecture, platform, middleware, resource management, QoS (Quality of Service), Dynamic interoperation, including plug-and-play operation
+- High Confidence Medical Device Software Development & Assurance: Care-giver requirements solicitation and capture, design and implementation, V&V (Verification and Validation), Heterogeneity in environment, architecture, platforms in medical devices
+- Internet of Medical Things: Mobile medical Apps, data analytics, security, logging, forensics, and privacy
+- Medical Practice-driven Models and Requirements: User-centric design, risk understanding, and use/misuse modeling in medical practice, management of failures in a clinical environment, modeling of operational scenarios, including medical devices, care-givers, patients
+- Certification of medical devices: Quantifiable incremental certification of medical devices and interoperable medical systems, role of design tools and COTS (Commercial Off-The-Shelf) components, challenges with self-adaptive medical systems
+
+
+*Paper Submission*
+------------------
+Authors are invited to submit papers by February 14th, 2018 (short papers 4-6 pages, full papers 8 -10 pages) and posters by March 2nd, 2018 at https://easychair.org/conferences/?conf=mcpsworkshop2018. Submissions must be original and should not have been published previously or be under consideration for publication while being evaluated for this workshop. More about the submission process can be found on the website: https://rtg.cis.upenn.edu/mcps-workshop-2018/.
+
+Accepted papers and abstracts will be published in the ACM SIGBED Review: http://sigbed.seas.upenn.edu/. By submitting to the workshop the authors are granting permission for ACM to publish in print and digital formats for the SIGBED Review and the ACM archive.
+
+*Important Dates*
+-----------------
+Papers (short 4-6 pages, full 8-10 pages) due: Feb 14th, 2018
+Posters and demos (1 page) due: Mar 2nd, 2018
+Papers, posters, demos author notification (accept/reject): Mar 5th, 2018
+Papers, posters, and demos camera ready due: Mar 16th, 2018
+
+*Organizing Committee*
+----------------------
+*Workshop Co-Chairs*
+- Philip Asare, Bucknell University, USA
+- Lu Feng, University of Virginia, USA
+- Paolo Masci, INESC-TEC and Universidade do Minho, Portugal
+- James Weimer, University of Pennsylvania, USA
+
+*Steering Committee*
+- Julian M. Goldman, Massachusetts General Hospital/Harvard Medical School
+- Paul Jones, US Food and Drug Administration (FDA)
+- Insup Lee, University of Pennsylvania
+- Sandy Weininger, US Food and Drug Administration (FDA)
+
+
+
+
+
